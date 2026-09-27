@@ -1,5 +1,5 @@
-# Proyecto Semestral Mineria de Datos - CC5205 - Primavera 2026
-Repositorio para guardar datasets y notebooks usados.
+# Proyecto Semestral Mineria de Datos - CC5205-1 - Primavera 2026
+Repositorio del grupo 11 para guardar datasets y notebooks usados.
 
 ## Fuentes usadas
 - CONAF: https://www.conaf.cl/centro-documental/
